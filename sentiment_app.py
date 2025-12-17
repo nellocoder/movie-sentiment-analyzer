@@ -1,5 +1,3 @@
-import os
-os.chdir(r"C:\Users\User\OneDrive\Documents\Data Science 2025.2026")
 import streamlit as st
 import joblib
 
@@ -37,4 +35,5 @@ if st.button("Analyze Sentiment"):
         else:
             st.error(f"😡 **NEGATIVE REVIEW** (Confidence: {confidence:.2%})")
     else:
+
         st.warning("Please type a review first!")
