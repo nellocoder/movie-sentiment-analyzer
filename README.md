@@ -1,5 +1,3 @@
-# movie-sentiment-analyzer
-It uses sentimental analysis to analyze and predict reviews on movies. 
 # 🍿 AI Movie Critic (Sentiment Analysis)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
